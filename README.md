@@ -6,7 +6,7 @@ A WhatsApp-style AI chatbot with multiple personas powered by Google Gemini AI.
 [View Live App](https://thinkbot-ai-theta.vercel.app/)
 
 ## ✨ Features
-- WhatsApp-style chat bubble UI
+- Real-time conversation chat interface
 - 4 AI Personas (General, Coder, Writer, Teacher)
 - Chat history saved to database
 - Copy message button
